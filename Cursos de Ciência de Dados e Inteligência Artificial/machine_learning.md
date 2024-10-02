@@ -31,4 +31,4 @@ Existem diversas plataformas que oferecem cursos gratuitos de Machine Learning c
    - **Certificado**: Oferece certificado gratuito após a conclusão.
    - **Link**: [Kaggle](https://www.kaggle.com/learn)
 
-Esses cursos abrangem desde fundamentos até tópicos avançados e, em alguns casos, oferecem exercícios práticos para consolidar o conhecimento.
+Esses cursos abrangem desde fundamentos até tópicos avançados e, em alguns casos, oferecem exercícios práticos para consolidar o conhecimento. Estude!
