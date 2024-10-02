@@ -1,0 +1,148 @@
+# Os fundamentos da segurança da informação
+
+## Quais são os fundamentos da segurança da informação?
+
+Quando falamos em informações e dados corporativos, é importante considerar a tríade CIA, que se refere a um modelo de segurança da informação composto por cinco componentes principais: **confidencialidade, integridade, disponibilidade, autenticidade e legalidade**.
+
+### Sua empresa está completamente segura?
+
+**Proteger para não virar refém.** Trabalhar a segurança dos dados corporativos trata-se de fazer um projeto consolidado em treinamento dos colaboradores, redesenhar e automatizar os processos, escolhendo a tecnologia de defesa mais completa e que possa agir antecipadamente.
+
+> "Com o avanço do mundo digital, as empresas se deparam com cada vez mais tentativas de ameaças avançadas. É preciso estar preparado, por isso o ideal é uma política preventiva e não reativa, possibilitando a solução de maneira estratégica e eficiente."
+
+A segurança da informação é essencial para qualquer negócio atualmente. Ela abrange métodos, ferramentas e processos para proteger dados e informações, algo que ganhou ainda mais urgência com a **LGPD**. 
+
+Por isso, compreender os fundamentos de segurança da informação é essencial para negócios de todos os setores e portes. Faz parte desses fundamentos o tripé formado por **confidencialidade, integridade, disponibilidade, autenticidade e legalidade**.
+
+### Afinal, o que é a segurança da informação?
+
+Segurança da informação consiste em implementar uma série de ações com o objetivo de combater ameaças e vulnerabilidades que coloquem em risco a proteção dos dados de uma organização. 
+
+O tema é pauta frequente nos noticiários. Isso porque o Brasil está entre os países com mais ataques cibernéticos. O país é o 2º na América Latina com o maior número de invasões virtuais no último ano. 
+
+Apenas no primeiro semestre de 2022, foram registradas **31,5 bilhões de tentativas de invasões cibernéticas** contra empresas, um aumento de **94%** em relação ao mesmo período de 2021, segundo levantamento da Fortinet. 
+
+Ainda assim, muitas organizações não se conscientizaram da urgência de medidas mais eficientes que protejam o ativo mais importante: suas informações estratégicas e confidenciais. Com isso, todos os dias, novas empresas são vítimas de crimes virtuais.
+
+Agora que você já sabe o que é segurança da informação e conheceu o cenário de cibersegurança no Brasil, vamos aprender seus **5 fundamentos**.
+
+## Quais são os fundamentos da segurança da informação?
+
+Quando falamos em: **confidencialidade, integridade, disponibilidade, autenticidade e legalidade**. Cada um deles representa um objetivo essencial de cibersegurança, como veremos a seguir.
+
+### Confidencialidade
+
+Confidencialidade refere-se às medidas desenvolvidas com a missão de proteger os dados contra a divulgação e o acesso não autorizado. O principal objetivo desse princípio é garantir que as informações confidenciais permaneçam em sigilo e que estejam disponíveis apenas para pessoas autorizadas.
+
+A quebra de confidencialidade pode ocorrer por diferentes meios, por exemplo, ataques de hackers ou engenharia social. Nesse contexto, a criptografia é uma grande aliada para evitar incidentes e cumprir esse requisito básico da segurança da informação.
+
+### Integridade
+
+A integridade envolve a proteção contra modificações não autorizadas (por exemplo, adicionar, excluir ou alterar) de dados. O princípio da integridade nos fundamentos de segurança da informação foi desenvolvido para garantir que os dados sejam confiáveis e que não tenham sido modificados de maneira maliciosa.
+
+Portanto, esse pilar permite que as empresas tenham certeza de que os dados não foram adulterados, degradados ou passaram por modificações não autorizadas, sejam intencionais ou não, desenvolvidas por pessoal interno ou externo.
+
+### Disponibilidade
+
+Disponibilidade é o pilar da segurança da informação que visa proteger a funcionalidade dos sistemas de suporte, com o intuito de garantir que os dados estejam disponíveis no momento (ou requisitos do período) para usuários autorizados.
+
+Para isso, os sistemas de computação, controles de segurança e canais de comunicação devem estar funcionando corretamente. Além disso, precisam ser resilientes contra ameaças cibernéticas e ter salvaguardas contra quedas de energia, falhas de hardware e outros eventos que afetam a disponibilidade.
+
+### Autenticidade
+
+A autenticidade tem como objetivo garantir que uma informação é verdadeira e não foi alterada por terceiros não autorizados. Ou seja, que são provenientes de uma determinada fonte confiável.
+
+Para assegurar esse pilar da segurança da informação, é necessário garantir que não houve falsificação. Para isso, todas as ações realizadas devem ser rastreadas.
+
+### Legalidade
+
+Com a **LGPD** (Lei Geral de Proteção de Dados Pessoais) em vigor, é preciso garantir que todas as suas regras sejam cumpridas, evitando multas e outras sanções. 
+
+Para isso, as ações de segurança devem estar adequadas à lei, assegurando que a empresa funcione alinhada à legislação vigente.
+
+**Será que a sua instituição está preparada para a LGPD?** Descubra no nosso artigo tudo sobre a lei que visa assegurar a privacidade dos dados pessoais.
+
+## Como ocorre a aplicação prática dos princípios da segurança da informação?
+
+A execução eficaz de todos os princípios dessa tríade cria um resultado ideal do ponto de vista da segurança da informação. 
+
+Considere um exemplo simples e prático desta aplicação: uma organização obtém ou cria dados confidenciais que serão usados no curso de suas operações de negócios digitais.
+
+Como os dados são confidenciais, eles só devem ser vistos por quem precisa vê-los para realizar o seu trabalho. Portanto, eles devem ser protegidos contra o acesso de pessoas não autorizadas. Esse é um exemplo do princípio da **confidencialidade**.
+
+Quando o profissional que tem necessidade desses dados para realizar uma tarefa de trabalho precisa lidar com tais informações, elas devem estar prontamente acessíveis, de maneira oportuna e confiável para que a tarefa possa ser concluída a tempo e a empresa possa continuar seu processamento. Isso descreve o princípio da **disponibilidade**.
+
+E, por fim, os dados serão usados em cálculos e estratégias que afetam as decisões de negócios e os investimentos que serão feitos pela organização. Portanto, a precisão dos dados é crítica para garantir os cálculos e resultados adequados sobre os quais as decisões serão tomadas.
+
+A garantia de que as informações não foram adulteradas indevidamente e, portanto, podem ser confiáveis para esses processos e decisões, resume o princípio da **integridade**.
+
+## Por que os fundamentos da segurança da informação são tão relevantes para a sua empresa?
+
+A segurança da informação protege os dados confidenciais de atividades não autorizadas, incluindo acesso, modificação, registro e qualquer interrupção ou destruição.
+
+Com isso, o objetivo é garantir a segurança e privacidade de dados críticos, como detalhes de contas de clientes, informações financeiras ou propriedade intelectual. Ainda, permitir seu acesso, sempre que preciso, por quem tem autorização para isso.
+
+As consequências dos incidentes de segurança da informação incluem roubo de dados privados, adulteração de informações e exclusão de dados. Os ataques podem interromper os processos de trabalho, prejudicar a reputação de sua empresa e levar à perda de leads e clientes, além de ter um custo tangível que pode ser bastante elevado.
+
+Além disso, a urgência de aperfeiçoar e modernizar a aplicação dos princípios da segurança da informação e de outras práticas de proteção de dados pessoais e sensíveis também é alavancada com a vigência ativa da **LGPD**.
+
+A Lei Geral de Proteção de Dados Pessoais traz diversas diretrizes neste sentido e que precisam ser cumpridas. Não atender aos seus requisitos pode custar à empresa multas vultosas, problemas de credibilidade no mercado, perda de confiança do cliente e mais gastos extras para lidar com ocorrências, como o vazamento de dados.
+
+## 7 dicas para implementar a segurança da informação
+
+Como você pode ver, a segurança da informação é sem dúvidas um tema de grande relevância para o contexto corporativo. 
+
+Garantir a proteção dos dados deve ser prioridade para empresas de todos os segmentos e portes, uma vez que informações confidenciais em mãos erradas podem resultar em prejuízo financeiro, perda da reputação, problemas com clientes e penalidades com a **LGPD**. 
+
+Continue sua leitura até o fim deste artigo e confira nossas dicas infalíveis para colocar em prática e blindar de vez seus dados empresariais.
+
+### 1. Faça a avaliação da situação da sua empresa
+
+Imagine a seguinte situação: um hacker encaminha um e-mail - com um endereço bem semelhante ao da direção - no anexo, há um link contendo vírus. Ao abri-lo, o criminoso terá acesso livre ao sistema corporativo.
+
+Será que sua empresa está preparada para atuar nesses casos? Para entender esse cenário e implementar melhorias contínuas para proteção dos dados, o primeiro passo é realizar um diagnóstico para descobrir o cenário da empresa nessa área. 
+
+### 2. Crie a sua própria política de segurança
+
+Sua empresa é única e tem peculiaridades. Tudo isso é levado em conta na hora de elaborar uma política de segurança eficiente. 
+
+Portanto, depois de feito um levantamento sobre o cenário de cibersegurança, são desenvolvidas ações que preencham as brechas identificadas. 
+
+É importante que a política de segurança da empresa esteja alinhada aos padrões internacionais da **ISO 27001**.
+
+### 3. Monitore a sua implementação
+
+Um passo importante para garantir a proteção dos dados é monitorar frequentemente se a política de segurança está sendo cumprida corretamente pelos colaboradores. 
+
+Essa medida é essencial para revisões periódicas a fim de atualizar esse documento de acordo com a nova realidade da organização.
+
+### 4. Utilize ferramentas de proteção
+
+A tecnologia será sua grande aliada para manter a segurança da informação. Por isso, grande parte das suas estratégias estarão relacionadas a soluções de proteção, como firewall, antivírus, anti-phishing, dentre outros.
+
+Portanto, todos os dispositivos usados pelos colaboradores devem ter instalados essas ferramentas com o objetivo de protegê-los contra acesso indevido.
+
+### 5. Acompanhe as evoluções
+
+A tecnologia está em constante transformação. O que torna o ambiente corporativo mais ágil e eficiente. No entanto, os hackers estão se beneficiando das novas tecnologias para praticar crimes cada vez mais sofisticados e difíceis de serem identificados.
+
+Neste caso, é preciso estar atento às novas formas de invasões e atuar de forma preventiva, combatendo ataques cibernéticos. Para isso, o time de TI deve estar atualizado às novas inovações, assegurando a proteção dos sistemas com ações modernas.
+
+### 6. Mantenha os sistemas atualizados
+
+Como falamos anteriormente, os criminosos estão se beneficiando da tecnologia para a prática de ataques e mais, estão atentos à forma como as organizações respondem para burlar as medidas de proteção. 
+
+As atualizações de softwares reduzem risco e vulnerabilidades de segurança. Por isso, programas, sistemas e plugins devem estar sempre atualizados.
+
+### 7. Treine seus colaboradores
+
+Muitos ataques cibernéticos são resultados de falhas e erros dos próprios colaboradores. Ou seja, de nada adianta uma política de segurança eficiente se os colaboradores não estiverem preparados para atuar de acordo com as boas práticas de proteção dos dados. 
+
+A equipe deve passar por treinamentos, de tal forma que sejam capazes de evitar falhas que coloquem em risco a segurança da informação. Assim, todos os colaboradores devem ter conhecimento das medidas que são implementadas.
+
+Com essas técnicas, sua empresa certamente estará mais protegida. Agora você pode investir no seu negócio digital com mais segurança. Com um site otimizado, você atingirá resultados satisfatórios.
+
+## Referências bibliográficas
+
+[https://incuca.net/fundamentos-de-seguranca-da-informacao/#:~:text=Quais%20são%20os%20fundamentos%20da,%2C%20disponibilidade%2C%20autenticidade%20e%20legalidade.](https://incuca.net/fundamentos-de-seguranca-da-informacao/#:~:text=Quais%20são%20os%20fundamentos%20da,%2C%20disponibilidade%2C%20autenticidade%20e%20legalidade.)
+
