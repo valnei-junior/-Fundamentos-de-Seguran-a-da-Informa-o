@@ -18,7 +18,7 @@ Cloud Computing, ou computação em nuvem, refere-se à entrega de serviços de 
 
 2. **Escola da Nuvem**
    - **Descrição**: Cursos gratuitos de Cloud Computing com certificação AWS e Azure.
-   - **Link**: [Escola da Nuvem](https://tecflow.com.br/2024/02/12/escola-da-nuvem-abre-inscricoes-para-cursos-gratuitos-de-cloud-computing-com-certificacao-aws-e-azure/)
+   - **Link**: [Escola da Nuvem](https://escoladanuvem.org/cursos/)
 
 3. **AWS Skill Builder**
    - **Descrição**: Acesso a mais de 600 cursos digitais gratuitos e laboratórios práticos.
