@@ -11,37 +11,15 @@
 ## 2. edX
 - **Curso:** [Introduction to Cybersecurity](https://www.edx.org/course/introduction-to-cybersecurity)
 - **Instituição:** University of Washington
-- **Descrição:** Este curso inclui tópicos sobre segurança da informação, proteção de dados e conceitos de criptografia.
+- **Descrição:** Este curso inclui tópicos sobre segurança da informação, proteção de dados e conceitos de criptografia, todo o conteudo em inglês.
 - **Certificado:** Sim (certificado pago).
 
 ---
 
-## 3. FutureLearn
-- **Curso:** [Data Privacy and Technology](https://www.futurelearn.com/courses/data-privacy-and-technology)
-- **Instituição:** University of Groningen
-- **Descrição:** Este curso explora a interseção entre tecnologia e privacidade, incluindo discussões sobre criptografia e práticas de proteção de dados.
-- **Certificado:** Sim (disponível mediante pagamento).
-
----
-
-## 4. Udacity
-- **Curso:** [Introduction to Data Privacy](https://www.udacity.com/course/introduction-to-data-privacy--ud396)
-- **Descrição:** Uma introdução às questões de privacidade de dados, com ênfase em técnicas de criptografia e sua aplicação.
-- **Certificado:** Sim (certificado pago).
-
----
-
-## 5. Khan Academy
+## 3. Khan Academy
 - **Curso:** [Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
 - **Descrição:** Curso básico de criptografia que cobre princípios fundamentais e técnicas.
-- **Certificado:** Não disponível, mas é gratuito e acessível.
-
----
-
-## 6. OpenLearn (Open University)
-- **Curso:** [Introduction to Cyber Security](https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security/content-section-overview?active-tab=description-tab)
-- **Descrição:** Este curso oferece uma visão geral da segurança cibernética, incluindo a criptografia.
-- **Certificado:** Sim (certificado gratuito).
+- **Certificado:** Disponível
 
 ---
 
